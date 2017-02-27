@@ -1,0 +1,796 @@
+
+body {
+	background-color:lightblue;
+}
+
+div {
+	float: left;
+	padding-right: 30px;
+	margin-top:30px;
+
+}
+
+.a1 {
+	animation-name:drop;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop {
+
+0% {  left:100px; top:50px; }
+
+20% {  left:100px; top:150px;}
+
+40% {left:100px; top:200px; }
+
+60% { left:100px; top:300px; }
+
+80% {  left:100px; top:300px; }
+100% { left:100px; top:350px;}
+
+}
+
+
+.a2 {
+	animation-name:drop2;
+	animation-duration:1s;
+	position:relative;
+	float: left;
+	padding-right: 30px;
+	margin-top:30px;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+@keyframes drop2 {
+
+0% {  left:100px; top:70px; }
+
+20% {  left:100px; top:170px;}
+
+40% {left:100px; top:220px; }
+
+60% { left:100px; top:320px; }
+
+80% {  left:100px; top:340px; }
+100% { left:100px; top:360px;}
+}
+
+.a3 {
+	animation-name:drop3;
+	animation-duration:2s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop3 {
+
+0% {  left:100px; top:90px; }
+
+20% {  left:100px; top:110px;}
+
+40% {left:100px; top:200px; }
+
+60% { left:100px; top:300px; }
+
+80% {  left:100px; top:350px; }
+100% { left:100px; top:400px;}
+
+}
+
+.a4 {
+	animation-name:drop4;
+	animation-duration:2s;
+	position:relative;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+@keyframes drop4 {
+
+0% {  left:100px; top:110px; }
+
+20% {  left:100px; top:150px;}
+
+40% {left:100px; top:250px; }
+
+60% { left:100px; top:350px; }
+
+80% {  left:100px; top:400px; }
+100% { left:100px; top:450px;}
+}
+
+.a5 {
+	animation-name:drop5;
+	animation-duration:2s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop5 {
+
+0% {  left:100px; top:20px; }
+
+20% {  left:100px; top:80px;}
+
+40% {left:100px; top:100px; }
+
+60% { left:100px; top:150px; }
+
+80% {  left:100px; top:500px; }
+100% { left:100px; top:650px;}
+}
+
+
+.a6 {
+	animation-name:drop6;
+	animation-duration:1s;
+	position:relative;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop6 {
+
+0% {  left:100px; top:100px; }
+
+20% {  left:100px; top:250px;}
+
+40% {left:100px; top:300px; }
+
+60% { left:100px; top:400px; }
+
+80% {  left:100px; top:500px; }
+100% { left:100px; top:650px;}
+
+}
+
+
+.a7 {
+	animation-name:drop7;
+	animation-duration:1s;
+	position:relative;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop7 {
+
+0% {  left:100px; top:150px; }
+
+20% {  left:100px; top:170px;}
+
+40% {left:100px; top:190px; }
+
+60% { left:100px; top:340px; }
+
+80% {  left:100px; top:410px; }
+100% { left:100px; top:680px;}
+
+}
+
+
+.a8 {
+	animation-name:drop8;
+	position:relative;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop8 {
+
+0% {  left:100px; top:40px; }
+
+20% {  left:100px; top:60px;}
+
+40% {left:100px; top:80px; }
+
+60% { left:100px; top:100px; }
+
+80% {  left:100px; top:420px; }
+100% { left:100px; top:538px;}
+
+}
+
+.a9 {
+	animation-name:dro9;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop9 {
+
+0% {  left:100px; top:20px; }
+
+20% {  left:100px; top:130px;}
+
+40% {left:100px; top:210px; }
+
+60% { left:100px; top:330px; }
+
+80% {  left:100px; top:410px; }
+100% { left:100px; top:550px;}
+
+}
+
+.a10 {
+	animation-name:drop10;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop10 {
+
+0% {  left:100px; top:70px; }
+
+20% {  left:100px; top:180px;}
+
+40% {left:100px; top:230px; }
+
+60% { left:100px; top:600px; }
+
+80% {  left:100px; top:6300px; }
+100% { left:100px; top:650px;}
+}
+
+.a11 {
+	animation-name:drop11;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop11 {
+
+0% {  left:100px; top:150px; }
+
+20% {  left:100px; top:190px;}
+
+40% {left:100px; top:230px; }
+
+60% { left:100px; top:270px; }
+
+80% {  left:100px; top:330px; }
+100% { left:100px; top:440px;}
+
+}
+
+.a12 {
+	animation-name:drop12;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop12 {
+
+0% {  left:100px; top:65px; }
+
+20% {  left:100px; top:95px;}
+
+40% {left:100px; top:115px; }
+
+60% { left:100px; top:125px; }
+
+80% {  left:100px; top:245px; }
+100% { left:100px; top:359px;}
+
+}
+
+.a13 {
+	animation-name:drop13;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop13 {
+
+0% {  left:100px; top:50px; }
+
+20% {  left:100px; top:150px;}
+
+40% {left:100px; top:200px; }
+
+60% { left:100px; top:300px; }
+
+80% {  left:100px; top:300px; }
+100% { left:100px; top:350px;}
+
+}
+
+.a14 {
+	animation-name:drop14;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop14 {
+
+0% {  left:100px; top:10px; }
+
+20% {  left:100px; top:20px;}
+
+40% {left:100px; top:50px; }
+
+60% { left:100px; top:110px; }
+
+80% {  left:100px; top:500px; }
+100% { left:100px; top:650px;}
+
+}
+
+.a15 {
+	animation-name:drop15;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop15 {
+
+0% {  left:100px; top:70px; }
+
+20% {  left:100px; top:90px;}
+
+40% {left:100px; top:110px; }
+
+60% { left:100px; top:125px; }
+
+80% {  left:100px; top:170px; }
+100% { left:100px; top:440px;}
+
+}
+
+.a16 {
+	animation-name:drop16;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop16 {
+
+0% {  left:100px; top:80px; }
+
+20% {  left:100px; top:200px;}
+
+40% {left:100px; top:310px; }
+
+60% { left:100px; top:340px; }
+
+80% {  left:100px; top:390px; }
+100% { left:100px; top:410px;}
+
+}
+
+.a17 {
+	animation-name:drop17;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop17 {
+
+0% {  left:100px; top:30px; }
+
+20% {  left:100px; top:400px;}
+
+40% {left:100px; top:480px; }
+
+60% { left:100px; top:500px; }
+
+80% {  left:100px; top:530px; }
+100% { left:100px; top:560px;}
+
+}
+
+
+.a18 {
+	animation-name:drop18;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+@keyframes drop18 {
+
+0% {  left:100px; top:0px; }
+
+20% {  left:100px; top:20px;}
+
+40% {left:100px; top:100px; }
+
+60% { left:100px; top:220px; }
+
+80% {  left:100px; top:370px; }
+100% { left:100px; top:500px;}
+
+}
+
+.a19 {
+	animation-name:drop19;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop19 {
+
+0% {  left:100px; top:70px; }
+
+20% {  left:100px; top:80px;}
+
+40% {left:100px; top:110px; }
+
+60% { left:100px; top:240px; }
+
+80% {  left:100px; top:360px; }
+100% { left:100px; top:390px;}
+
+}
+
+.a20 {
+	animation-name:drop20;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop20 {
+
+0% {  left:100px; top:60px; }
+
+20% {  left:100px; top:200px;}
+
+40% {left:100px; top:280px; }
+
+60% { left:100px; top:380px; }
+
+80% {  left:100px; top:480px; }
+100% { left:100px; top:510px;}
+
+}
+
+
+.a21 {
+	animation-name:drop22;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+@keyframes drop23 {
+
+0% {  left:100px; top:50px; }
+
+20% {  left:100px; top:150px;}
+
+40% {left:100px; top:200px; }
+
+60% { left:100px; top:300px; }
+
+80% {  left:100px; top:300px; }
+100% { left:100px; top:350px;}
+
+}
+
+
+.a24 {
+	animation-name:drop24;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop24 {
+
+0% {  left:100px; top:130px; }
+
+20% {  left:100px; top:290px;}
+
+40% {left:100px; top:305px; }
+
+60% { left:100px; top:345px; }
+
+80% {  left:100px; top:420px; }
+100% { left:100px; top:510px;}
+
+}
+
+.a25 {
+	animation-name:drop25;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop25 {
+
+0% {  left:100px; top:80px; }
+
+20% {  left:100px; top:190px;}
+
+40% {left:100px; top:250px; }
+
+60% { left:100px; top:420px; }
+
+80% {  left:100px; top:450px; }
+100% { left:100px; top:490px;}
+}
+
+
+.a26 {
+	animation-name:drop26;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop26 {
+
+0% {  left:100px; top:50px; }
+
+20% {  left:100px; top:150px;}
+
+40% {left:100px; top:200px; }
+
+60% { left:100px; top:300px; }
+
+80% {  left:100px; top:300px; }
+100% { left:100px; top:350px;}
+
+}
+
+
+.a27 {
+	animation-name:drop27;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+	
+}
+
+
+
+
+
+@keyframes drop27 {
+
+0% {  left:100px; top:80px; }
+
+20% {  left:100px; top:120px;}
+
+40% {left:100px; top:230px; }
+
+60% { left:100px; top:350px; }
+
+80% {  left:100px; top:370px; }
+100% { left:100px; top:390px;}
+
+}
+
+
+.a28 {
+	animation-name:drop28;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+@keyframes drop28 {
+
+0% {  left:100px; top:10px; }
+
+20% {  left:100px; top:50px;}
+
+40% {left:100px; top:80px; }
+
+60% { left:100px; top:120px; }
+
+80% {  left:100px; top:340px; }
+100% { left:100px; top:390px;}
+
+}
+
+.a29 {
+	animation-name:drop29;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+@keyframes drop29 {
+
+0% {  left:100px; top:30px; }
+
+20% {  left:100px; top:50px;}
+
+40% {left:100px; top:160px; }
+
+60% { left:100px; top:240px; }
+
+80% {  left:100px; top:280px; }
+100% { left:100px; top:370px;}
+
+}
+
+.a30 {
+	animation-name:drop30;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+@keyframes drop30 {
+
+0% {  left:100px; top:60px; }
+
+20% {  left:100px; top:70px;}
+
+40% {left:100px; top:100px; }
+
+60% { left:100px; top:230px; }
+
+80% {  left:100px; top:320px; }
+100% { left:100px; top:370px;}
+
+}
+
+.a31 {
+	animation-name:drop31;
+	animation-duration:1s;
+	position:relative;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+@keyframes drop31 {
+
+0% {  left:100px; top:220px; }
+
+20% {  left:100px; top:310px;}
+
+40% {left:100px; top:470px; }
+
+60% { left:100px; top:560px; }
+
+80% {  left:100px; top:570px; }
+100% { left:100px; top:580px;}
+
+}
